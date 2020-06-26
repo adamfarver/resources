@@ -1,45 +1,39 @@
-## Resource Pages
+# Useful Resources for Developers
 
-Here is a list of best resources for the developers (mostly web). Feel free to add your resources as well because sharing is caring.
+A list of student-collated resources deemed to be useful for every developer and categorised. Andrei has a hand-picked list of his favourite resources which you can find [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
 
 ## Table of Contents
-* [**General Resources for Web Development**](#general-resources-for-web-development)
 
-* [**Free Tools For Students**](#free-tools-for-students)
+- [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
-* [**Git and Github**](#git-and-github): Some resources on using Git and GitHub.
+- [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
 
-* [**Articles**](ARTICLES.md): A page of articles on web development.
+- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
-* [**Web Development Tools**](TOOLS.md): A page listing a number of web development tools.
+- [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
----
+- [**Git and Github**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
 
-## General Resources for Web Development
+- [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
 
-* [**Codecademy**](https://www.codecademy.com/catalog/subject/web-development): A place to learn and practice web development concepts and languages.
+- [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
 
-* [**egghead**](https://egghead.io): A place to learn new web development concepts and languages, both for free and paid.
+- [**MOOCs (Massive Open Online Courses)**](moocs.md): Showcasing effective online courses that covers areas such as Full-Stack development, Front-End development, Computer Science, or even a little of everything!
 
-* [**Codewars**](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
+- [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
-* [**Code School**](https://www.codeschool.com/): A number of web development tutorials, some available for free. A great place to learn coding.
+- [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
-* [**freeCodeCamp.org**](https://www.freecodecamp.org): A free site for learning web development. Optionally, you can pledge to donate money to charities while you learn, giving incentive to keep working. In particular, this site features a number of JavaScript algorithms for practice and preparation for technical job interviews.
+- [**Python Resources**](Python.md): A list of resources for learning Python.
 
-* [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
+- [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
+- [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
 
-## Free Tools For Students
-* [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
+- [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
-* [**JetBrains Student License**](https://www.jetbrains.com/student/):  Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.
+## Contributing
 
-## Git and GitHub
+- You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request
 
-* [Try Git](https://try.github.io/): Learn how to use Git with Code School's interactive course
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) : A cheat sheet that features the most important and commonly
-used Git commands for easy reference.
-  - [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
-* [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links): Most web pages on GitHub are written using the Markdown HTML-preprocessor language. This cheat sheet includes most of the useful syntax for Markdown.
-  - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
+- [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
